@@ -1,6 +1,6 @@
 ########## RC13 release ############
 English,1,RC13,https://raw.githubusercontent.com/Might-Magic-Heroes-5-5/Cloud-services/master/manual_translations/en_RC13v1.pak,
 Russian,1,RC13,https://raw.githubusercontent.com/Might-Magic-Heroes-5-5/Cloud-services/master/manual_translations/ru_RC13v1.pak,
-########## RC13а release ############
-English,1,RC13а,https://raw.githubusercontent.com/Might-Magic-Heroes-5-5/Cloud-services/master/manual_translations/en_RC13av1.pak,
-Russian,1,RC13а,https://raw.githubusercontent.com/Might-Magic-Heroes-5-5/Cloud-services/master/manual_translations/ru_RC13av1.pak,
+########## RC13a release ############
+English,1,RC13a,https://raw.githubusercontent.com/Might-Magic-Heroes-5-5/Cloud-services/master/manual_translations/en_RC13av1.pak,
+Russian,1,RC13a,https://raw.githubusercontent.com/Might-Magic-Heroes-5-5/Cloud-services/master/manual_translations/ru_RC13av1.pak,
